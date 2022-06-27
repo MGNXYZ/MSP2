@@ -15,9 +15,7 @@
 
 | <ins>**Mise en situation professionnelle**<ins> |
 | :-----------------------------------------------------------------------------:   |
-| [Installation VM](https://github.com/MGNXYZ/Cours/tree/main/Installation%20VM) |
-| [Test connexion réseaux](https://github.com/MGNXYZ/Cours/tree/main/Test%20connexions%20réseaux)  |
-| [Mise en place des utilisateurs](https://github.com/MGNXYZ/Cours/tree/main/Configuration%20des%20utilisateurs%20et%20de%20l’environnement)  |
-| [Configuration de l’environnement](https://github.com/MGNXYZ/Cours/tree/main/Configuration%20de%20l’environnement%20de%20travail)  |
-| [Gestion d'imprimantes](https://github.com/MGNXYZ/Cours/tree/main/Gestion%20d’imprimantes)  |
-| [Configuration avancée des systemes](https://github.com/MGNXYZ/Cours/tree/main/Configuration%20avancée%20système%20Debian)  |
+| [Adressage IP](https://github.com/MGNXYZ/MSP2/tree/main/Conception%20du%20plan%20d%E2%80%99adressage%20IPv4) |
+| [Créer les VM client](https://github.com/MGNXYZ/MSP2/tree/main/Cr%C3%A9ation%20des%20VM%20client)  |
+| [Créer les VM serveur](https://github.com/MGNXYZ/MSP2/tree/main/Cr%C3%A9ation%20des%20VM%20serveur)  |
+| [Création du routeur pfsense](https://github.com/MGNXYZ/MSP2/tree/main/Cr%C3%A9ation%20du%20routeur%20XY)  |
