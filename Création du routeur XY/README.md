@@ -57,4 +57,21 @@
 ![image](https://user-images.githubusercontent.com/95431446/175918374-4f93b69e-2ae6-46eb-81c3-700c44dab04a.png)
 
 
- 
+## 2. Une fois les machines serveur créer on peut appliquer la règles demander
+
+- On ce rend a l'aide d'un navigateur sur l'interface graphique de pfsense ```https://192.168.210.254```
+
+![image](https://user-images.githubusercontent.com/95431446/175941185-4db544e6-ca59-4779-9a45-c5379130bf91.png)
+
+
+- On va maintenant activé la règles de pare feu laissant passé tout les protocols
+
+>Firewall > Rules > OPT1 > add 
+
+![image](https://user-images.githubusercontent.com/95431446/175946828-3bca8e91-0546-410d-abf1-140163f92a4e.png)
+
+>Puis save et enfin apply change
+
+![image](https://user-images.githubusercontent.com/95431446/175947417-fef4a530-e72b-4d2e-94a1-5117c39b55ff.png)
+
+
